@@ -1,0 +1,30 @@
+indicator,value,year,source,topic
+Population,281.6 million,2024,BPS,Population
+Population growth,0.8% per year,2024,World Bank WDI,Population
+Population density,148.6 people per km2,2023,World Bank WDI,Population
+Urban population,58.8% of total,2024,World Bank WDI,Population
+Fertility rate,2.1 births per woman,2023,World Bank WDI,Population
+Life expectancy at birth,74.15 years,2024,BPS,People
+GDP at current prices,"Rp 22,139 trillion",2024,BPS,Economy
+GDP in US dollars,US$1.40 trillion,2024,World Bank WDI,Economy
+GDP per capita,US$4941.90,2024,World Bank WDI,Economy
+GDP (PPP),US$4.67 trillion,2024,World Bank WDI,Economy
+Real GDP growth,5.03%,2024,BPS,Economy
+Exports of goods,US$264.7 billion,2024,BPS,Economy
+Imports of goods,US$233.7 billion,2024,BPS,Economy
+Goods trade surplus,US$31.0 billion,2024,BPS,Economy
+"Foreign direct investment, net inflows",US$24.2 billion,2024,World Bank WDI,Economy
+Current account balance,-0.6% of GDP,2024,IMF WEO,Economy
+"Inflation, December year on year",1.57%,2024,BPS,Prices
+"Inflation, annual average",2.18%,2024,World Bank WDI,Prices
+"Food, beverages & tobacco inflation",1.90% year on year,Dec 2024,BPS,Prices
+Open unemployment rate,4.91%,Aug 2024,BPS,Jobs
+Labour force,152.1 million people,Aug 2024,BPS,Jobs
+"Unemployment, urban areas",5.79%,Aug 2024,BPS,Jobs
+"Unemployment, rural areas",3.67%,Aug 2024,BPS,Jobs
+Jakarta provincial minimum wage,"Rp 5,396,761 per month",2025,Jakarta provincial government,Jobs
+Poverty rate,8.57%,Sep 2024,BPS,People
+People in poverty,24.06 million,Sep 2024,BPS,People
+Poverty line,"Rp 595,242 per person per month",Sep 2024,BPS,People
+Human Development Index,75.02,2024,BPS,People
+Gini ratio,0.379,Mar 2024,BPS,People
